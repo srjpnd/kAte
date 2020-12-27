@@ -73,3 +73,10 @@ span{
     bottom: 0;
     right: 100px;
 }
+.img-box img{
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+}
